@@ -237,10 +237,6 @@ function Enrollcourse()
         userCourse.push(buyCourse);
         alert("Course Enrollment Success!");
         ShowCourseSection();
-        console.log(buyCourse.courseId);
-        console.log(buyCourse.courseName);
-        console.log(buyCourse.requiredDay);
-        console.log(buyCourse.userId);
     }
     else
     {
