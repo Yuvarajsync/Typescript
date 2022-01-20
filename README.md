@@ -4,4 +4,4 @@ typescript project
 
 
 ## Link 
-<a href="https://yuvarajsync.github.io/Typescript/OnlineCourseEnrollment/">Click Here!</a>
+<a href="https://yuvarajsync.github.io/Typescript/OnlineCourseEnrollment/" target="_blank">Click Here!</a>
